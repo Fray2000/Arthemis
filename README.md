@@ -1,6 +1,6 @@
 # Arthemis
 
-![alt text](https://raw.githubusercontent.com/Fray2000/Arthemis/branch/pictures/arthemis.png)
+![alt text](https://raw.githubusercontent.com/Fray2000/Arthemis/pictures/arthemis.png)
 
 Raspberry PI Home brain
 
