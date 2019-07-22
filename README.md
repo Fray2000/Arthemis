@@ -1,4 +1,7 @@
 # Arthemis
+
+![alt text](https://raw.githubusercontent.com/Fray2000/Arthemis/branch/pictures/logo.png)
+
 Raspberry PI Home brain
 
 The Arthemis project is ment for students or persons with limited possibilities to deploy home informatic infrastructure.
