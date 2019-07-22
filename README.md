@@ -2,7 +2,7 @@
 
 Raspberry PI Home brain
 
-#Summary
+# Summary
 
 The Arthemis project is ment for students or persons with limited possibilities to deploy home informatic infrastructure and modernise a home on the cheap.
 
