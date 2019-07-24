@@ -13,4 +13,4 @@ The system is also more ecologycal beceause of the use of only one board and it'
 
 The projects offers:
                   - A 3D printed base that supports 2.5 drives and the Raspberry Pi 2 / 3 (all versions included with B and B+ varients)
-                  - software ?
+                  - The software used is called Dietpi.
